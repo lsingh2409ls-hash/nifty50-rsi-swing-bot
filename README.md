@@ -1,0 +1,1 @@
+# nifty50-rsi-swing-bot
